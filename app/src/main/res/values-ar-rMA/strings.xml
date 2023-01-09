@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"عداد البومودورو"</string>
+    <string name="take_pomodoro" translatable="false">خد تجربة في البومودورو</string>
+    <string name="keep_going" translatable="false">أستمر</string>
+    <string name="reset" translatable="false"><u>أعادة</u></string>
+    <string name="start" translatable="false">أبدء</string>
+</resources>

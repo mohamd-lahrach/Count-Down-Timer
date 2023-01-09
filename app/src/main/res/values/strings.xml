@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Pomodoro Timer</string>
+    <string name="take_pomodoro" translatable="false">Take a Pomodoro....</string>
+    <string name="keep_going" translatable="false">Keep going....</string>
+    <string name="reset" translatable="false"><u>Reset</u></string>
+    <string name="start" translatable="false">START</string>
+    <string name="time" translatable="false">25:00</string>
+</resources>
